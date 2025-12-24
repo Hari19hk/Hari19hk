@@ -47,9 +47,6 @@ I’m a **Full Stack Developer** on a mission to build elegant solutions, one bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari19hk&theme=tokyonight" alt="hari19hk" />
 </p>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/OkXNQXcXw-sAAAAd/shrek-meme-yup.gif" width="300" />
-</div>
 
 ---
 

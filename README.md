@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="MasterHead" />
   
-  <h1>Hi 👋, I'm Hari Kishore</h1>
+  <h1>Hi , I'm Hari Kishore</h1>
 
   <h3>"Solving one problem at a time... or at least effectively googling the solution."</h3>
 
@@ -16,9 +16,9 @@
 
 I’m a **Full Stack Developer** on a mission to build elegant solutions, one bug at a time. I believe in writing code that’s so clean even I can understand it when I'm tired. 
 
-- 🌱 **Currently obsessed with:** Mastering Blockchain & sharpening my DSA skills.
-- ⚡ **Fun Fact:** I’m a professional "know-it-all" in training. If it exists, I want to know how it works.
-- 🎯 **Goal:** Solve problems effectively so I have more time to be lazy later.
+- **Currently obsessed with:** Mastering Web dev & sharpening my DSA skills.
+- **Fun Fact:** I’m a professional "know-it-all" in training. If it exists, I want to know how it works.
+- **Goal:** Solve problems effectively so I have more time to be lazy later.
 
 ---
 

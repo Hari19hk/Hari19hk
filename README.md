@@ -39,13 +39,6 @@ I’m a **Full Stack Developer** on a mission to build elegant solutions, one bu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari19hk&show_icons=true&locale=en&theme=tokyonight" alt="hari19hk" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari19hk&theme=tokyonight" alt="hari19hk" />
-</p>
 
 
 ---
